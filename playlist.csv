@@ -1,0 +1,16 @@
+﻿track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+3GCdLUSnKSMJhs4Tj6CV3s,Kendrick Lamar;SZA,Black Panther The Album Music From And Inspired By,All The Stars (with SZA),83,232186,TRUE,0.698,0.633,8,-4.946,1,0.0597,0.0605,0.000194,0.0926,0.552,96.924,4,hip-hop
+6cSpp45tNFg80xi4f8ZBAY,Mac Miller;Kendrick Lamar,The Hip Hop Collection,"God Is Fair, Sexy Nasty",0,500960,FALSE,0.504,0.409,2,-12.067,1,0.188,0.347,3.09E-05,0.112,0.137,133.701,4,hip-hop
+5y8DBJkNfWYPpXUWQmPscR,Mac Miller,R'n'B Studying,What's the Use?,0,288640,TRUE,0.759,0.492,1,-10.338,0,0.12,0.736,0.0102,0.107,0.561,104.973,4,hip-hop
+7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,DAMN.,HUMBLE.,84,177000,TRUE,0.908,0.621,1,-6.638,0,0.102,0.000282,5.39E-05,0.0958,0.421,150.011,4,hip-hop
+6gBFPUFcJLzWGx4lenP6h2,Travis Scott,Birds In The Trap Sing McKnight,goosebumps,84,243836,TRUE,0.841,0.728,7,-3.37,1,0.0484,0.0847,0,0.149,0.43,130.049,4,hip-hop
+0fX4oNGBWO3dSGUZcVdVV2,Kendrick Lamar,Mr. Morale & The Big Steppers,N95,83,195950,TRUE,0.79,0.67,1,-5.527,1,0.105,0.377,2.32E-06,0.119,0.408,139.956,4,hip-hop
+2g6tReTlM2Akp41g0HaeXN,Kendrick Lamar;Blxst;Amanda Reifer,Mr. Morale & The Big Steppers,Die Hard,82,239026,TRUE,0.775,0.736,1,-8.072,0,0.247,0.319,0.00116,0.127,0.362,100.988,4,hip-hop
+59nOXPmaKlBfGMDeOVGrIK,Future;Drake;Tems,I NEVER LIKED YOU,WAIT FOR U (feat. Drake & Tems),89,189893,TRUE,0.463,0.642,1,-4.474,1,0.34,0.314,0,0.0686,0.339,83.389,4,hip-hop
+7ycWLEP1GsNjVvcjawXz3z,A$AP Rocky;Skepta,TESTING,Praise The Lord (Da Shine) (feat. Skepta),82,205040,TRUE,0.854,0.569,5,-8.151,0,0.106,0.0609,0.0816,0.1,0.294,80.015,4,hip-hop
+6mpBr9UYuDNzKMlHa2TI4o,Omar Apollo;Daniel Caesar,Trending Pop,Invincible,0,216160,FALSE,0.555,0.474,6,-11.706,0,0.0668,0.224,0.00426,0.162,0.262,134.89,4,soul
+3xKsf9qdS1CyvXSMEid6g8,Frank Ocean,Blonde,Pink + White,85,184516,FALSE,0.545,0.545,9,-7.362,1,0.107,0.667,5.48E-05,0.417,0.549,159.94,3,soul
+3B3eOgLJSqPEA0RfboIQVM,Bon_Iver,"For Emma, Forever Ago",Skinny Love,73,238520,FALSE,0.592,0.263,4,-14.029,0,0.0568,0.845,5.68E-06,0.127,0.109,76.366,4,folk
+2ZWlPOoWh0626oTaHrnl2a,Frank Ocean,Blonde,Ivy,81,249191,TRUE,0.575,0.386,9,-9.584,0,0.037,0.785,0.000289,0.229,0.466,116.408,4,soul
+7eqoqGkKwgOaWNNHx90uEZ,Frank Ocean,Blonde,Nights,80,307151,TRUE,0.457,0.551,5,-9.36,0,0.167,0.427,1.15E-06,0.113,0.428,89.87,4,soul
+0ZsSFv9dqF4O6MReTo1JBH,Playboi Carti,Bad Boy Club,R.I.P.,4,192026,TRUE,0.725,0.725,8,-6.067,0,0.159,0.0119,0,0.086,0.515,140.003,4,hip-hop
